@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DsaConcepts.iml" filepath="$PROJECT_DIR$/.idea/DsaConcepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashingConcepts/HashingConcepts.iml" filepath="$PROJECT_DIR$/HashingConcepts/HashingConcepts.iml" />
     </modules>
   </component>
 </project>
